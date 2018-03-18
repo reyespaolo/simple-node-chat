@@ -1,0 +1,22 @@
+{
+  "name": "simple-node-chat",
+  "version": "1.0.0",
+  "description": "Node Chat using Web Sockets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reyespaolo/simple-node-chat.git"
+  },
+  "author": "Paolo Brainard M. Reyes <xreyes.paolox@gmail.com> (http://360logix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reyespaolo/simple-node-chat/issues"
+  },
+  "homepage": "https://github.com/reyespaolo/simple-node-chat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
